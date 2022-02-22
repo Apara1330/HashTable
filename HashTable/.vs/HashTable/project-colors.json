@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d98e8b1f-4751-49b7-91fa-69fb58918170": {
+      "ProjectGuid": "d98e8b1f-4751-49b7-91fa-69fb58918170",
+      "DisplayName": "HashTable",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
