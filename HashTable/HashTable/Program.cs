@@ -11,7 +11,7 @@ namespace HashTable
         static void Main(string[] args)
         {
             Console.WriteLine("HashTable Program");
-            string paragraph = "To be or not to be";
+            string paragraph = "Paranoids are not paranoid because they are paranoid but because they keep putting thempselves deliberately into paranoid avoidable situations";
             CountWords(paragraph);
             Console.ReadLine();
         }
